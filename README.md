@@ -1,7 +1,4 @@
-# ArcoLinux-refind-theme-ambiance
+# ArcoLinux-refind-theme-catppuccin
 
-https://github.com/erikdubois/refind-ambience
+https://aur.archlinux.org/refind-theme-catppuccin-git.git
 
-source
-
-https://github.com/lukechilds/refind-ambience
